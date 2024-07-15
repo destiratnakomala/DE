@@ -38,6 +38,9 @@ This project marks the beginning of my commitment to mastering data engineering,
 1. Install Docker: [Docker Installation Guide](https://docs.docker.com/get-docker/)
 2. Build the Docker container:
    ```sh
-   docker build -t my_project .
+   docker build -t my_project . '''
+3. Run the Docker container:
+   ''' docker run -d -p 8080:8080 my_project
+'''
 
    
