@@ -55,5 +55,10 @@ This project marks the beginning of my commitment to mastering data engineering,
       ```
       terraform apply
 
+### Workflow Orchestration
+1. Install Airflow or Prefect
+2. Define and Deploy Workflows
+### Data Warehouse
+
 
    
