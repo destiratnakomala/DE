@@ -48,10 +48,12 @@ This project marks the beginning of my commitment to mastering data engineering,
       Follow the Terraform Installation Guide to install Terraform on your system.
    2. Initialize Terraform
       Navigate to the 'terraform/' directory and initialize Terraform:
-      ``` terraform init
+      ```
+      terraform init
    4. Apply Terraform Scripts
       Apply the Terraform scripts to provision the infrastruktur:
-      ``` terraform apply
+      ```
+      terraform apply
 
 
    
