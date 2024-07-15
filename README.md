@@ -40,7 +40,18 @@ This project marks the beginning of my commitment to mastering data engineering,
    ```sh
    docker build -t my_project . '''
 3. Run the Docker container:
-   ''' docker run -d -p 8080:8080 my_project
-'''
+   ```docker run -d -p 8080:8080 my_project
+```
+4. Terraform
+   1. Install Terraform: Terraform Installation Guide
+   2. Initialize Terraform
+   ```
+   terraform init
+    ```
+   3. Apply Terraform scripts:
+   ```
+   terraform apply
+    ```
+
 
    
